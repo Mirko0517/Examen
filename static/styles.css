@@ -1,0 +1,60 @@
+.button{
+background-color: blue;
+border: none;
+color: blue;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 12px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.ejercicio-link {
+    color: white;
+    padding: 70px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.ejercicio-2 {
+    background-color: green;
+}
+
+.ejercicio-1 {
+    background-color: purple;
+}
+
+.mensaje-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
